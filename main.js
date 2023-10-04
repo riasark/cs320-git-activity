@@ -1,1 +1,1 @@
-console.log("Hello World")
+console.log("Partner 2 was here")
